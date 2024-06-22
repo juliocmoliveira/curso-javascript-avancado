@@ -1,0 +1,19 @@
+{
+  "name": "curso-javascript-avancado",
+  "version": "1.0.0",
+  "description": "Atividades relacionadas ao curso de javascript avançado ministrado na proway.",
+  "main": "\u001b[D\u001bhtml)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juliocmoliveira/curso-javascript-avancado.git"
+  },
+  "author": "Júlio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliocmoliveira/curso-javascript-avancado/issues"
+  },
+  "homepage": "https://github.com/juliocmoliveira/curso-javascript-avancado#readme"
+}
